@@ -31,7 +31,7 @@ This is a simple YouTube Video Downloader built using Streamlit and Pytube. It a
 
 1. Run the Streamlit app:
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 2. Open your web browser and go to `http://localhost:8501`.
